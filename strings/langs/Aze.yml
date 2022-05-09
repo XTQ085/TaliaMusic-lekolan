@@ -100,5 +100,54 @@ set_cb_6 : "Dəyişikliklərin qurulması."
 set_cb_7 : "Autentifikasiya İstifadəçi Siyahısı.. LÜTFEN GÖZLƏYİN."
 set_cb_8 : "Qayıdılır..."
 
+# başqa
+gstats_1 : "Qlobal Statistikanı əldə etmək bir az vaxt apara bilər..."
+gstats_2 : "Heç bir Ümumi Statistika Tapılmadı."
+gstats_3 : "Botdakı Sorğuların Ümumi Sayı: {0}\n\n{1} {2} treki böyük sayda {3} dəfə ifa etdi.\n\nSəhifənin yuxarısı {4} Trek:\n"
+
+Ustats_1 : "Heç bir istifadəçi statistikası tapılmadı."
+Ustats_2 : "Salam!, Siz indiyədək {0} treki çox sayda {1} dəfə ifa etmisiniz.\n\nOxuduğunuz {2} səhifənin yuxarısı:\n\n"
+
+tops_1 : "Botun Qlobal Top 10 Söhbətini əldə etmək bir az vaxt apara bilər..."
+tops_2 : "Heç bir statistika tapılmadı"
+tops_3 : "Səhifənin yuxarısı {0} Söhbətlər {1}:\n\n"
+tops_4 : "Bot-un Qlobal Top 10 İstifadəçisini əldə etmək, Biraz Vaxt apara bilər..."
+tops_5 : "{1} üzrə ən yaxşı {0} İstifadəçi:\n\n"
+tops_6 : "Bu Söhbətin Ən Yaxşı 10 Hissəsini əldə etmək, Bir az vaxt apara bilər..."
+tops_7 : "Botun Qlobal Top 10 Hissəsini əldə etmək bir az vaxt apara bilər..."
+tops_8 : "Bu söhbət qrupu indiyə qədər {0} ifa edib, çoxlu sayda {1} dəfə baxıb.\n\nBu söhbət qrupu tərəfindən ən çox oxunan {2}:\n\n"
+tops_9 : "Botun ümumi statistikası və məlumatı əldə edilir.. Bu bir az vaxt ala bilər...."
+tops_10 : "BOTUN QLOBAL TOP 10 STATİSTİKASI\n\nBot serverlərinin ümumi statistikasını yoxlamaq istədiyiniz düymələrin altından seçin."
+
+# oynamaq
+
+#Geri Zəngi yerinə yetirin
+playcb_1 : "Bu sizin üçün deyil! Öz Mahnınızı Axtarın."
+playcb_2 : "Növbəti nəticəni axtarın"
+
+# Kanal Oyunçusu
+cplay_1 : "Siz bu söhbətdən[{0}] istənilən kanala və ya söhbətinizin əlaqəli kanalına musiqi oxuya bilərsiniz.\n\nTörəmə kanalı üçün:\n/{1} Əlaqələndirilib\n\nBaşqa kanal üçün:\n /{1} [ Kanal ID]"
+cplay_2 : "Bu söhbətin əlaqəli kanalları yoxdur."
+cplay_3 : "Kanal müəyyən edilib {0}\n\nKanal ID: {1}"
+cplay_4 : "Kanal əldə etmək alınmadı.\n\nKanalınıza botlar əlavə etdiyinizə və onu admin kimi tanıtdığınızdan əmin olun.\nKanal /kanal oynatma və ya kanal oynatma rejimini /oyun rejimini deaktiv edin"
+cplay_5 : "Yalnız Kanallar dəstəklənir."
+cplay_6 : "Bu qrupa keçid etmək üçün Siz Kanal Sahibi olmalısınız*[{0}].\nKanal Sahibi:** @{1}\n\nAlternativ olaraq qrupunuzu bu kanala bağlaya və sonra /channelplay ilə əlaqələndirə bilərsiniz"
+
+#oynamaq
+play_1 : "🔄 Sorğu emal olunur... Lütfən gözləyin!"
+play_2 : "🏷 Kanal Oyunçusu Rejimi\n\n🔄 Sorğu emal olunur... Lütfən gözləyin!\nƏlaqələndirilmiş Kanal: {0}"
+play_3 : "Sorğunu emal etmək mümkün olmadı!"
+play_4 : "🖇 Yalnız Adminlər Play əmrindən istifadə edirlər.\nBu qrupda yalnız Adminlər və Doğrulama İstifadəçiləri musiqi oxuya bilər.\n\nRejimi /playmode rejiminə dəyişin və əgər siz artıq idarəçisinizsə, admincache-i /admincache-ə təyin edin"
+play_5 : "Audio faylı emal etmək alınmadı.\n\nAudio faylının ölçüsü 100 MB-dan az olmalıdır"
+play_6 : "Vaxt Limiti keçdi\n\nİcazə verilən vaxt: {0} dəqiqə\nGötürülən vaxt: {1} dəqiqə"
+play_7 : "Bağışlayın! Bot CPU-nun həddən artıq yüklənməsi problemlərinə görə yalnız məhdud sayda video zənglərə icazə verir. Bir çox digər çatlar hazırda video zənglərdən istifadə edir. Audioya keçin və ya sonra yenidən cəhd edin"
+play_8 : "Etibarlı video fayl uzantısı deyil!\n\nDəstəklənən Formatlar: {0}"
+play_9 : "Videonun Fayl Ölçüsü 1 GiB-dən Az Olmalıdır"
+play_10 : "Youtube Pleylist Xüsusiyyəti\n\nBütün Youtube Pleylistini oxutmaq istədiyiniz Rejimi seçin"
+play_11 : "📎 Başlıq: {0}\n\n⏳ Müddət: {1} Dəqiqə"
+play_12 : "Spotify Pleylistləri\n\nTələb olundu:- {0}"
+play_13 : "Apple Playlists\n\nTələb:- {0}"
+play_14 : "URL-i yoxlamaq mümkün olmadı.\nBot bu url-nin aşağıdakı platformalardan hər hansı birinə aid olub-olmaması ilə maraqlanır: Youtube, AppleMusic, Spotify, Resso və Soundcloud.\n\nSiz /stream M3u8 və ya Uzaqdan Bağlantılar üçün istifadə edə bilərsiniz."
+
 
 
