@@ -1,1 +1,66 @@
+name : Azərbaycanca
+
+# Genel Dizeler
+general_1 : "Userin mesajını yanıtlama vəya istifadəçinin adı/user_id vermə."
+general_2 : "Xəta! Komandan Yanlış İstifadəsi."
+general_3 : "Sorğunuz işlənərken bəzi **özəl şeylər oluştu**.\n\nÖzəl Durum Türü:- {0}"
+general_4 : "Bu Söhbət qrupunda Anonim bir adminsiz!\n Admin Haqqlarından User Hesabına geri qayıt."
+general_5 : "Bu Komandanı gərçəkləştirmək üçün səsli söhbət idarə etmə yetkisinə sahib olmalısınız."
+general_6 : "Bot səsli söhbəttə deyil."
+
+# Sınıflar - Telegram.py
+tg_1 : "Bot bu dəqiqə endirmələrlə **Artıq yükləndi**.\n\n**Sonra yenidən təkrar et:** {0} (__beklenen süre__)"
+tg_2 : "Telegram'dan medya indirilməsi mümkün olmadı."
+
+# Çekirdek - Call.py
+call_1 : "Bot, asistan hesabını kanalınıza dəvət etmək üçün **Admin** hüqüqu lazımdır.\n\nKanal playmode'u işləməməsi üçün: /playmode"
+call_2 : "Asistan qrubunuzda vəya kanalınızda qadağan olunub.\n\n**Yardımcı User Adı:** @{0}\n**Yardımcı Kimliyi:** {1}"
+call_3 : "Asistan Hesabını Səhbətinizə Dəvət Edərken Özəl Durum Oluştu.\n\n**Sebep**: {0}"
+call_4 : "Bot, asistan hesabını səhbət qrupunuza dəvət etmək üçün **İstifadəçiləri Bağlantı Yoluy ilə Dəvət Et** İcazəsi vacibdir."
+call_5 : "Asistan Hesabı 5 Saniyə içində qatılacak. Xaiş edirik gözləyin!"
+call_6 : "Asistan Hesabı[{0}] Uğurla qatıldı.\n\nMüsiqi indi Başla"
+call_7 : "**Verilən Zərərli Admin Haqqı **\n\nXaiş  qaldırın **BAN USERS** rights from the bot."
+call_8 : "**Verilən Zararlı Admin Haqqı **\n\nXaiş qaldırın **ADD NEW ADMINS** rights from the bot."
+call_9 : "**Axış deyiştirilə bilmədi**\nXaiş istifadə edin /parçayı yenidən dəyuştirmək üçün atla."
+call_10 : "Çalma Listəsindən Sonraki Parçayı Yükləmə"
+call_11 : "Xaiş ekleyin @{0} kanalınıza[ ID: {1}].\n\nBot kanal ayrıntılarını ala bilmir."
+
+# EKLENTILER - Auth.py
+auth_1 : "Qrupunuzun Admin İstifadəçilər Listəsində təkcə 20 User ola bilər (AUL)"
+auth_2 : "Qrupunuzun Admin İstifadəçilər Listəsinə Yazıldı."
+auth_3 : "Onsuzda Admin İstifadəçilər Listəsində."
+auth_4 : "Bu Qrupun Admin İstifadəçilər Listəsindən Qaldırıldı."
+auth_5 : "Həmin İstifadəçi Admin deyil."
+auth_6 : "Admin İstifadəçilər Gətirir... Lütfən gözləyin"
+auth_7 : "**Admin İstifadəçilər Listəsi [AUL]:**\n\n"
+auth_8 : "┗ Ekleyen:-"
+
+# EKLENTİLER - Adminlər
+admin_1 : "Müsiqi onsuzda Duraklatıldı."
+admin_2 : "🎧 Səsli söhbət Duraklatıldı {}!"
+admin_3 : "Müsiqi onsuzda davam etti."
+admin_4 : "🎧 Səsli söhbət Tərəfındən Davam Edildi {}!"
+admin_5 : "Müsiqi onsuzda səssiz."
+admin_6 : "🎧 Səsli söhbət Səssizə alındı {}!"
+admin_7 : "Müsiqi onsuzda Səssiz."
+admin_8 : "🎧 Səsli Söhbət Səsi Açıldı. Tərəfındən {}!"
+admin_9 : "🎧 Səsli söhbət Qapatıldı. Tərəfındən {}!"
+admin_10 : "🎧 Səsli söhbətı Atlayan {}!. Quyruqta Daha çox Müsiqi Yoxdur."
+admin_11 : "Axışı dəyiştir dəyiştirilirkən xəta oluştu **{0}**\n\nLütfen kullanın /atla komut."
+admin_12 : "Aktiv döngü yeritmə səbəbiylə bəlirli bir parçaya atlanmaq mümkün olmadı. Lütfən döngü oynatmayı deaktiv edin `/döngü devre dışı bırak' bu özəlliyi istifadə üçün."
+admin_13 : "Lütfən 1, 2 vəya 4 kimi bəlirli parçalar üçün sayısal sayılar işlədin"
+admin_14 : "Bəlirli bir sayıya atlamaq üçün sırada lazım olan ən az 2 parça. Sıraya bax /queue"
+admin_15 : "Sizin verdiyiniz dəyər üçün sırada yetərli parça yoxdur. Lütfən 1 ilə 1 arasındaki sayıları seçin {0}"
+admin_16 : "Bəlirli bir parçaya keçiləmədi.\n\nSol sıraya bax /queue"
+admin_17 : "{0}.. Lütfən gözləyin"
+admin_18 : "Admin Listəsi Tapılamadı\n\nLütfən admin listəsini /admincache vəya /reload"
+admin_19 : "Bunu gerçəkləştirmək üçün səsli söhbət haqqlarını yönətmə haqqda admin olmanız lazımdır.\nOnsuzda adminsiz, admincache'i /admincache baxın "
+admin_20 : "Admin önbəlləyi başarıyla yenidən yükləndi."
+admin_21 : "Sıra içində qarıştırılacax bir şey yoxdur"
+admin_22 : "Qarıştırılamadı.\n\nSıraya bax : /queue /sira"
+admin_23 : "**Sıra Qarıştırıldı by {0}**\n\nQarıştırılmış sıraya  bax : /queue"
+admin_24 : "**Kullanım:**\n/tekrar [enable/disable] vəya [Arasındaki sayı 1-10]\n\n**Örneğin:** /tekrar 5"
+admin_25 : "Döngü tarafından etkinleştirildi {0} for **{1}** kere. Bot şimdi sesli sohbette mevcut müzik çalmayı tekrarlayacak **{1}** kere"
+admin_26 : "Yenidən oynatmaq üçün lütfən 1-10 arasındaki nömarələri istifadə edin"
+admin_27 : "Yenidən oynatma deaktiv bıraxıldı"
 
