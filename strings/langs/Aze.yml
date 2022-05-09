@@ -92,4 +92,11 @@ settings_14 : "⁉️ Bu nədir?\n\nAktivləşdirildikdə, Bot icra edilən əmr
 settings_15 : "Peer həll edilə bilmədi, botları kanalınıza əlavə etdiyinizə və onu admin kimi tanıtdığınızdan əmin olun.\n\nYenidən /channelplay-ı quraşdırmağa cəhd edin.."
 
 set_cb_1 : "Səs Keyfiyyəti Paneli açılır..."
+set_cb_2 : "Video Keyfiyyət Paneli əldə edilir..."
+set_cb_3 : "Autentifikasiya İstifadəçiləri Paneli əldə edilir..."
+set_cb_4 : "Oynatma Rejimi Paneli əldə edilir..."
+set_cb_5 : "Təmiz Rejim Paneli əldə edilir..."
+set_cb_6 : "Dəyişikliklərin qurulması."
+set_cb_7 : "Autentifikasiya İstifadəçi Siyahısı.. LÜTFEN GÖZLƏYİN."
+set_cb_8 : "Qayıdılır..."
 
