@@ -347,4 +347,83 @@ black_6 : "Söhbət uğurla ağ siyahıya salındı"
 black_7 : "Qara siyahıya salınmış söhbətlər:\n\n"
 black_8 : "Qara siyahıya salınmış söhbətlər yoxdur"
 
+#video limiti
+vid_1 : "İstifadə:\n/set_video_limit [İcazə verilən söhbətlərin sayı] və ya [Deaktiv edin]"
+vid_2 : "Lütfən, sərhədi təyin etmək üçün rəqəmsal rəqəmlərdən istifadə edin."
+vid_3 : "Video Zənglər Maksimum Müəyyən edilmiş Limit {0} Söhbət."
+vid_4 : "Video Zənglər Deaktivdir"
+
+#baxım
+maint_1 : "İstifadə:\n/maintenance [enable|disable]"
+maint_2 : "Xidmət üçün aktivdir"
+maint_3 : "Xidmət rejimi qeyri-aktivdir"
+
+#log
+log_1 : "İstifadə:\n/logger [enable|disable]"
+log_2 : "Aktiv Giriş"
+log_3 : "Giriş Deaktivdir"
+
+#videorejimi
+vidmode_1 : "İstifadə:\n/videorejim [download|m3u8]"
+vidmode_2 : "Videonun Oynatma Rejimi ekranın aşağısına təyin edilib. Bot indi trekləri endirəcək."
+vidmode_3 : "Videonun Oynatma Rejimi m3u8-ə təyin edilib. Bot indi parçaları canlı oxudacaq."
+
+#yayım
+broad_1 : "Yayımlanmış Mesaj {0} Söhbət {1} Botdan Sancaqlar."
+broad_2 : "Assistent Yayımı başladı..."
+broad_3 : "Yardımcı Yayım:\n\n"
+broad_4 : "Assistent 1 {0} söhbətini buraxdı\n"
+broad_5 : "Assistent 2 {0} Çatı buraxdı\n"
+broad_6 : "Assistent 3 {0} Çatı buraxdı\n"
+broad_7 : "Assistent 4 {0} Çatda buraxıldı\n"
+broad_8 : "Assistent 5 {0} Çatı buraxdı\n"
+broad_9 : "İstifadə:\n/reklam [POST] və ya [Mesafa Cavab Verin]"
+broad_10 : "Lütfən, yayım üçün bir neçə mətn təqdim edin."
+broad_11 : "Yayım Mesajı {0} İstifadəçilər."
+
+#heroku
+heroku_1 : "Lütfən, Heroku API Açarınızın, Proqram adının heroku-da düzgün konfiqurasiya edildiyinə əmin olun"
+heroku_2 : "Siz yalnız Heroku Proqramlarının qeydlərini əldə edə bilərsiniz"
+heroku_3 : "İstifadə:\n/get_var [Var Adı]"
+heroku_4 : "Belə var tapmaq mümkün deyil."
+heroku_5 : ".env faylı tapılmadı."
+heroku_6 : "İstifadə:\n/del_var [Var Adı]"
+heroku_7 : "{0} silin."
+heroku_8 : "İstifadə:\n/set_var [Var Adı] [Var Dəyəri]"
+heroku_9 : "{0} uğurla yeniləndi"
+heroku_10 : "{0} uğurla əlavə edildi"
+heroku_11 : "Yalnız Heroku Proqramları üçün"
+heroku_12 : "Heroku İstifadəsi Yoxlanılır. Zəhmət olmasa gözləyin"
+heroku_13 : "Mövcud yeniləmələr yoxlanılır..."
+heroku_14 : "Git Komanda xətası"
+heroku_15 : "Etibarsız Git Nümayəndəsi"
+
+#Şəxsi bot rejimi
+pbot_1 : "İstifadə:\n/icazə verin [CHAT_ID]"
+pbot_2 : "İstifadə:\n/ [CHAT_ID] icazəsiz"
+pbot_3 : "Verilən söhbət səlahiyyətli siyahıya əlavə edildi"
+pbot_4 : "Verilən söhbət səlahiyyətli siyahıdan silindi"
+pbot_5 : "Söhbət artıq icazəli siyahıdadır"
+pbot_6 : "İcazə verilmiş siyahıda belə söhbət yoxdur"
+pbot_7 : "chat_id-i yoxlamaq mümkün olmadı.\n\nOnun rəqəmli və düzgün formatda olduğuna əmin olun. Söhbət istifadəçi adı və ya keçidlərindən istifadə etməyin."
+pbot_8 : "Lütfən, gözləyin... Səlahiyyətli çatları götürməyin."
+pbot_9 : "<b>Təqdim edilmiş Çatlar:</b>\n\n"
+pbot_10 : "Şəxsi Söhbət"
+pbot_11 : "İcazə verilmiş söhbət tapılmadı"
+pbot_12 : "Şəxsi Bot Rejimi deaktiv edilib.\n\nBotunuzu fərdi bot kimi istifadə etmək üçün PRIVATE_BOT_MODE = Doğrudur"
+pbot_13 : "\n<b>Limitsiz Söhbət:</b>\n\n"
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
+
 
