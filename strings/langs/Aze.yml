@@ -148,6 +148,72 @@ play_11 : "📎 Başlıq: {0}\n\n⏳ Müddət: {1} Dəqiqə"
 play_12 : "Spotify Pleylistləri\n\nTələb olundu:- {0}"
 play_13 : "Apple Playlists\n\nTələb:- {0}"
 play_14 : "URL-i yoxlamaq mümkün olmadı.\nBot bu url-nin aşağıdakı platformalardan hər hansı birinə aid olub-olmaması ilə maraqlanır: Youtube, AppleMusic, Spotify, Resso və Soundcloud.\n\nSiz /stream M3u8 və ya Uzaqdan Bağlantılar üçün istifadə edə bilərsiniz."
+play_15 : "Canlı Yayım Aşkarlandı\n\nSistemlər trek linkinizi canlı yayım kimi aşkarladı. Canlı yayımı oynamaq istəyirəm?"
+play_16 : "Toz detallarını əldə etmək alınmadı. Başqa oyun oynamağa cəhd edin."
 
+#Pleylist
+playlist_1 : "İstifadə: /oyun [Musiqi Adı və ya Youtube Linki və ya Audioya Cavab]\n\nƏgər Botun Server Pleylistini oynamaq istəyirsinizsə! Aşağıdakı düyməni basın."
+playlist_2 : "Pleylistinizi alıram. Zəhmət olmasa gözləyin"
+playlist_3 : "Sizin Botun Serverində pleylistiniz yoxdur."
+playlist_4 : "Yedilən Pleylist:\n\n"
+playlist_5 : " Müddət - {0} Dəqiqə"
+playlist_6 : "Playlistləri silmək üçün PM-də mənimlə əlaqə saxlayın."
+playlist_7 : "Playlistdəki Treklər: {0}\n\n Pleylistinizdəki xüsusi treki silmək üçün Düymələrə basın.\n\nBütün çalğı siyahısını silmək üçün: Bütün Pleylistləri Sil düyməsini basın."
+playlist_8 : "Artıq Mövcuddur\n\nBu trek pleylistinizdədir."
+playlist_9 : "Bağışlayın! Yalnız {0} pleylistindəki musiqi."
+playlist_10 : "Pleylist əlavə edilir\n\n{0}\nPleylistinizə əlavə edildi."
+playlist_11 : "Sizin trek uğurla silindi."
+playlist_12 : "Mahnınızı silmək mümkün olmadı."
+playlist_13 : "Bütün çalğı siyahılarınız serverdən silindi."
+playlist_14 : "Bütün pleylistinizi silmək istədiyinizə əminsiniz?\n\nPleylistinizi itirəcəksiniz və onu sonradan bərpa etmək mümkün olmayacaq."
+playlist_15 : "[Bütün pleylistləri ödəyin]({0})"
+playlist_16 : "Sitatlanmış Pleylist:"
+playlist_17 : "Növbəyə qoyulmuş mövqe-"
+playlist_18 : "[Növbəyə qoyulmuş bütün pleylistləri əldə edin]({0})\n\nSon növbəyə qoyulmuş mövqe : {1}"
+
+#oyun rejimi
+playmode_1 : "Qrupunuzdakı sorğuları oxutmaq istədiyiniz rejimi seçin[{0}]."
+playmode_2 : "Parametrlər dəyişdirildi və uğurla yadda saxlanıldı {0}"
+
+#Axın
+str_1 : "Lütfən, M3u8 Linkləri və ya Kataloq Linklərini təmin edin."
+str_2 : " ✅ Etibarlı Yayım Doğrulanıb\n\nLütfən, əlaqəni emal etmək üçün gözləyin.."
+str_3 : "YouTube canlı yayımlarını yayımlamaq mümkün deyil. Canlı Format Tapılmadı"
+
+#TopPlay
+tracks_1 : "{0} Ən Yaxşı 10 Pleylistə baxılır\n\n👤Tələb: {1}\n📢Kanaldan oxutma: {2}\n\nƏn yaxşı 10 treki /statı yoxlayın"
+tracks_2 : "Xəta\n\nBelə bir şey yoxdur. {0} Bot serverlərindəki Top 10 Pleylist. Lütfən, başqa pleylist sınayın"
+
+# ARAÇLAR
+
+#Lirika
+lyrics_1 : "İstifadə:\n\n/sözlər [ Musiqi Adı]"
+lyrics_2 : "Lyrics Wanted"
+lyrics_3 : "❌ Mahnı sözləri əldə etmək mümkün olmadı 😭.\n\n💡Axtarmağa cəhd edin: {0}"
+lyrics_5:
+lyrics_4 : "Uzun spam növlərinin söz axtarışından qaçmaq üçün aşağıdakı düyməyə klikləyin və sözləri axtarın."
+
+#ping
+ping_1 : "Pong!!!!"
+ping_2 : "Pong!\n⚡{0} ms\n\n<b><u>{1} Sistem Statistikası:</u></b>\nİş vaxtı : {2} \nRam : {3} \nCpu : {4} \nDisk : {5}"
+
+#Mahnı
+song_1 : "YouTube-dan yalnız şəxsi söhbətdə Musiqi və ya Videonu endirə bilərsiniz. Zəhmət olmasa, şəxsi söhbətdə mənə başlayın."
+mahnı_2 : "İstifadə:\n\n/[Musiqi Adı] və ya [Youtube Linki] tapın"
+mahnı_3 : "Canlı Link Aşkarlandı. Canlı youtube videolarını endirə bilmirəm."
+mahnı_4 : "🔗 Başlıq:- {0}\n\nEndirmək istədiyiniz janrı seçin."
+mahnı_5 : "Etibarlı Youtube Linki deyil"
+mahnı_6 : "Formatlar qəbul edilir.. \n\nLütfən gözləyin.."
+song_7 : "Video üçün mövcud formatları əldə etmək alınmadı. Lütfən, başqa treki yoxlayın."
+song_8 : "Endirmə başladı\n\nYükləmə sürəti yavaş ola bilər. Lütfən gözləyin..."
+song_9 : "Youtube-DL-dən mahnı yükləmək alınmadı\n\nSəbəb: {0}"
+song_10 : "Serverlərdən teleqrama yükləmək alınmadı."
+mahnı_11 : "Yükləmə Başladı\n\nYükləmə sürəti yavaş ola bilər. Lütfən, gözləyin..."
+
+# Alətlər - Növbə
+queue_1 : "Lütfən gözləyin. növbəti mahnılar alınır."
+queue_2 : "Növbədə heç bir trek yoxdur."
+queue_3 : "<u>Növbəyə qoyulmuş treklər:</u> [Buradan daha çox növbəyə alınmış treklər]({0})"
+queue_4 : "⏳ Növbəyə əlavə edildi{0}\n\n💡 Başlıq: {1}\n⏱Müddəti: {2}\n👤 Göndərən: {3}"
 
 
