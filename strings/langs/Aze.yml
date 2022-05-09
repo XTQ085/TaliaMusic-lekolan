@@ -64,3 +64,32 @@ admin_25 : "Döngü tarafından etkinleştirildi {0} for **{1}** kere. Bot şimd
 admin_26 : "Yenidən oynatmaq üçün lütfən 1-10 arasındaki nömarələri istifadə edin"
 admin_27 : "Yenidən oynatma deaktiv bıraxıldı"
 
+# Bot
+
+# Başlamaq
+start_1 : "Məni daxil etdiyiniz üçün təşəkkürlər. {0}.\n{1} sağdır.\n\nHər hansı yardım və ya yardım üçün dəstək qrupumuza və kanalımıza baxın."
+start_2 : "Salam, mənim adım {0}.\n\nMən bəzi faydalı xüsusiyyətləri olan teleqram yayım botuyam. Youtube, Spotify, Resso, AppleMusic, Soundcloud və s.\n\nMəni qruplarınıza əlavə etməkdən çəkinməyin. "
+start_3 : "Xoş gəlmisiniz {0}\n\nMənə administrator icazəsi lazım deyil (tələb olunana qədər).\n\nAssistent İstifadəçi Adı:- @{1}\nAssistent ID:- {2}"
+start_4 : "{0}-nin Sahibi[{1}] indicə söhbətinizə qoşulub."
+start_5 : "Üzvün {0} sudo İstifadəçisi[{1}] indicə söhbətinizə qoşulub."
+start_6 : "❗️ Superqrup Tələb olunur ❗️\n\nLütfən, qrupunuzu superqrupa çevirin və sonra məni geri əlavə edin.\n\nSuperqrupu necə yaratmaq olar?\n ✅ Qrupunuzun söhbət tarixçəsini görməyin."
+
+#kömək
+help_1 : "Ətraflı məlumat üçün aşağıdakı düymələrə klikləyin. Əgər komanda ilə bağlı hər hansı problemlə üzləşsəniz, bot sahibimlə əlaqə saxlaya və ya dəstək çatında soruşa bilərsiniz.\n\nBütün əmrlər / kimi mövcuddur.
+help_2 : "Kömək üçün PM-də mənimlə əlaqə saxlayın."
+
+# Parametrlər
+settings_1 : "⚙️ Musiqi Botu Parametrləri\n\n🖇Qrup: {0}\n🔖Qrup Adı: '{1}'\n\n💡Dəyişdirmək və ya dəyişmək istədiyiniz aşağıdakı funksiya düymələrini seçin."
+settings_3 : "⁉️ Bu nədir?\n\n1) Birbaşa: Axtarış sorğularını birbaşa oxuyur. Videoları birbaşa rejimdə oynamaq üçün -v düyməsindən istifadə edin.\n\n2) Daxil: Video və audio arasında seçim etmək üçün daxili formatlama düymələrini qaytarır."
+settings_4 : "⁉️ Bu nədir?\n\n👥 Hər kəs: Bu qrupda hər kəs inzibati əmrlərdən istifadə edə bilər (keç, dayandır, davam et və s.).\n\n🙍 Yalnız Administrator: Yalnız administratorlar və səlahiyyətli istifadəçilər administrator əmrlərindən istifadə edə bilər. ."
+settings_5 : "İcazəsiz İstifadəçi Tapılmadı\n\nSiz hər hansı qeyri-inzibatçıya mənim admin əmrlərimdən istifadə etməyə icazə verə bilərsiniz: /auth və /unauth istifadə edərək silmək"
+settings_9 : "⁉️ Bu nədir?\n\nAktiv olduqda, söhbətinizi təmiz və aydın etmək üçün {0} bot mesajı göndərin."
+settings_10 : "⁉️ Bu nədir?\n\n1) Qrup: Əmrin verildiyi qrupda musiqi oxuyur.\n\n2) Kanal: İstədiyiniz kanalda musiqi oxuyur. /channelplay vasitəsilə kanal ID-sinin qurulması"
+settings_11 : "⁉️ Bu nədir?\n\n1) Hər kəs: Bu qrupdakı hər kəs burada musiqi oxuya bilər.\n\n2) Yalnız administrator: Bu qrupda yalnız administratorlar musiqi oxuya bilər."
+settings_12 : "❌ Kanal rejimi üçün müəyyən edilmiş kanal ID-niz yoxdur. Lütfən, /kanal oynatmağı təyin edin."
+settings_13 : "Aktiv qrup zəngində oyun rejimini dəyişmək mümkün deyil. Lütfən, əvvəlcə səsli söhbəti dayandırın/dayandırın."
+settings_14 : "⁉️ Bu nədir?\n\nAktivləşdirildikdə, Bot icra edilən əmrləri (/oynat, /pauza, /qarışdır, /dayandır və s.) dərhal siləcək.\n\nBot silmə menecerindən düzgün işləməsini tələb edəcək. bu düzgün işləmək üçün "
+settings_15 : "Peer həll edilə bilmədi, botları kanalınıza əlavə etdiyinizə və onu admin kimi tanıtdığınızdan əmin olun.\n\nYenidən /channelplay-ı quraşdırmağa cəhd edin.."
+
+set_cb_1 : "Səs Keyfiyyəti Paneli açılır..."
+
