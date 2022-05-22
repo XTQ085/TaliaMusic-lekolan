@@ -4,7 +4,8 @@
 
 | Kod | Dil | Katılımcı |
 |-|-------|-------|
-| en | English | Thanks to [TeamYukki](https://t.me/TeamYukki)
-| si | Sinhala  | Thanks to [Damantha](https://t.me/MrItzme) & [Supun](https://t.me/Supunma)
-| hi | Hindi  | Thanks to [TeamYukki](https://t.me/TeamYukki)
-| tr | Şanlı Türk Bayrağı| Sorun yok [Bot destek](https://t.me/BotDestekGrubu) 
+| en | English | Thanks to [Support👨‍💻](https://t.me/NeonSUP)
+| si | Sinhala  | Thanks to [Support👨‍💻](https://t.me/NeonSUP)
+| hi | Hindi  | Thanks to [Support👨‍💻](https://t.me/NeonSUP)
+| tr | Şanlı Türk Bayrağı| Sorun yok [Support👨‍💻](https://t.me/NeonSUP) 
+| Az | Şanlı Azərbaycan Bayrağı| Problem yoxdur [Bot dəstək](https://t.me/NeonSUP) 
