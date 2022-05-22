@@ -1,28 +1,28 @@
 # Her Dilde Komutlar (Hangi dil yapmasını yaptıysan Aslan parçası :) komutu ekle örnek = "oynat" gibi o dile göre yanına koy... Denendi çalıştı... Hadi kolay gelsin. Telegram'da @Mahoaga diye bulursun... Kendine iyi bak.. 
 
 # Bot Commands
-PING_COMMAND : ["ping", "पिंग"]
-START_COMMAND : ["start", "स्टार्ट"]
-HELP_COMMAND : ["help", "हेल्प"]
-SETTINGS_COMMAND : ["settings", "setting", "सेटिंग्स", "सेटिंग"]
-RELOAD_COMMAND : ["admincache", "reload", "व्यवस्थापक कैश", "पुनः लोड करें"]
+PING_COMMAND : ["ping", "ping"]
+START_COMMAND : ["start", "başla"]
+HELP_COMMAND : ["help", "kömək"]
+SETTINGS_COMMAND : ["settings", "setting", "ayarlar", "सेटिंग"]
+RELOAD_COMMAND : ["admincache", "reload", "yenilə", "पुनः लोड करें"]
 STATS_COMMAND : ["stats", "आँकड़े"]
-LANGUAGE_COMMAND : ["lang", "language", "en", "tr"]
+LANGUAGE_COMMAND : ["lang", "language", "en", "tr" , "aze"]
 
 # Play Commands
-PLAY_COMMAND : ["play", "vplay", "cplay", "प्ले", "वीप्ले", "oynat", "dinle", "vizle"]
-PLAYMODE_COMMAND : ["playmode", "खेल विधा"]
-CHANNELPLAY_COMMAND : ["channelplay", "चैनलप्ले"]
-STREAM_COMMAND : ["stream", "धारा"]
+PLAY_COMMAND : ["play", "vplay", "cplay", "play", "vplay", "oynat", "dinle", "vizle"]
+PLAYMODE_COMMAND : ["playmode", "playmod"]
+CHANNELPLAY_COMMAND : ["channelplay", "kanalplay"]
+STREAM_COMMAND : ["stream", "stream"]
 
 #Playlists Command
-PLAYLIST_COMMAND : ["playlist", "प्लेलिस्ट", "liste"]
-DELETEPLAYLIST_COMMAND : ["deleteplaylist", "प्लेलिस्ट-हटाएं"]
+PLAYLIST_COMMAND : ["playlist", "playlist", "liste"]
+DELETEPLAYLIST_COMMAND : ["deleteplaylist", "playlistsil"]
 
 
 # Tools
 QUEUE_COMMAND : ["queue", "पंक्ति", "sira"]
-SONG_COMMAND : ["song", "video", "गीत", "वीडियो", "bul"]
+SONG_COMMAND : ["song", "video", "yüklə", "वीडियो", "bul"]
 LYRICS_COMMAND : ["lyrics", "बोल"]
 
 
@@ -30,11 +30,11 @@ LYRICS_COMMAND : ["lyrics", "बोल"]
 AUTH_COMMAND : ["auth", "yetkili", "प्रमाणन"]
 UNAUTH_COMMAND : ["unauth", "yetkisiz", "अनधिकृत"]
 AUTHUSERS_COMMAND : ["authusers", "लेखक"]
-PAUSE_COMMAND : ["pause", "ठहराव", "durdur"]
-RESUME_COMMAND : ["resume", "फिर-शुरू-करना", "devam"]
-MUTE_COMMAND : ["mute", "मूक"]
-UNMUTE_COMMAND : ["unmute", "अनम्यूट"]
-STOP_COMMAND : ["stop", "end", "विराम", "समाप्त", "son"]
+PAUSE_COMMAND : ["pause", "dayandır", "durdur"]
+RESUME_COMMAND : ["resume", "davam", "devam"]
+MUTE_COMMAND : ["mute", "mute"]
+UNMUTE_COMMAND : ["unmute", "unmute"]
+STOP_COMMAND : ["stop", "end", "dayan", "समाप्त", "son"]
 SKIP_COMMAND : ["skip", "छोड़ें", "atla"]
 SHUFFLE_COMMAND : ["shuffle", "मिश्रण", "karistir"]
 LOOP_COMMAND : ["loop", "लूप", "tekrar"]
